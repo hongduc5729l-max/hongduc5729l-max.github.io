@@ -1,7 +1,7 @@
 # Site settings
 title: "First Casino Gambling"
 description: "Your premier online gaming destination"
-url: "https://luongtrinh3018u-crypto.github.io"
+url: "https://hongduc5729l-max.github.io/"
 baseurl: "/First-Casino-Gambling"
 
 # Include XML files
@@ -16,4 +16,5 @@ exclude:
 # Markdown settings
 markdown: kramdown
 highlighter: rouge
+
 permalink: pretty
